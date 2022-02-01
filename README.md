@@ -1,7 +1,8 @@
 ## Heya ! 👋
 
 I'm Léo, student in IT @42Paris. 🖥
-Currently working & learning (🌱) from my cursus, I'm posting every project I made and some things from others projects/personal configuration ! I'm usually coding on Ubuntu or MacOS and I'm using vim with a bit of personal configuration ([dotfiles](https://github.com/y3ll0w42/dotfiles))
+<br/>Currently learning in cybersecurity/malware/hardware, I'm doing some virus, ctf and stuff, I'm also looking for a 1 year apprenticeship in those fields. :)
+<br/>Mainly coding in C, ASM, sometimes python, would like to do some Rust or so..!
 
 ### Useful links
 Online resume: [https://y3ll0w42.github.io/markdown-cv/]
